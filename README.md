@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi👋 @Artona17 is here
+- 🈷🎵🎮 I'm interested in learning languages, creating music and playing games!
+- ✅❌ I'm currently learning QA automation in C#.
+- 🅰 I speak english, russian and a bit of japanese.
+- 📧 ludmila170500@gmail.com
 <!--
 **Artona17/Artona17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
