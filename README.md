@@ -1,5 +1,5 @@
 ### Hi👋 @Artona17 is here
-- 🈷🎵🎮 I'm interested in learning languages, creating music and playing games!
+- 🈷🎵🎮 I'm interested in learning languages, creating music and translating games and technical articles!
 - ✅❌ I'm currently learning QA automation in C#.
 - 🅰 I speak english, russian and a bit of japanese.
 - 📧 ludmila170500@gmail.com
